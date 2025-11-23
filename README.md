@@ -1,5 +1,5 @@
 <img align = "Center" Src="https://github.com/ArtStudioORG/ArtStudioORG/blob/main/logos/banner.jpg"> <h1 align="Center"><img width="50" Src="https://github.com/ArtStudioORG/ArtStudioORG/blob/main/logos/main-logo.png"><br> ArtStudioORG</h1><P><I> This profile is owned by <b>ARTIST</b>,<br> Aim to make myself as a world's no 1 Software developer. I'm always intrested in working with professional teams. <br>
-FOUNDER & OWNER OF "TechArtistORG"
+FOUNDER & OWNER OF <b>"TechArtistORG"</b>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/motivestudents?igsh=MXFzYXdzejF4dXZreg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-asraful-islam-22386638a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ArtStudioORG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pikaownership@gmail.com) 
 <img align="right" width="100" Src="https://github.com/ArtStudioORG/ArtStudioORG/blob/main/logos/Scanner-logo.gif">
